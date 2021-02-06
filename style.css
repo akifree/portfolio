@@ -1,0 +1,70 @@
+html {
+  overflow-y:scroll;
+}
+
+h1 {
+  font-size: 20px;
+  color: rgb(201, 199, 197);
+}
+
+h2 {
+  font-size: 17px;
+  margin-left: 2rem;
+  color: rgb(201, 199, 197);
+}
+
+h3 {
+  font-size: 11px;
+  font-family: Abel;
+  line-height: 1.7em;
+  margin-left: -1rem;
+  color: rgb(201, 199, 197);
+}
+
+small {
+  color: rgb(201, 199, 197);
+}
+
+.photo {
+    padding-bottom: 2rem;
+    width: 92%;
+    height: 92%;
+    /* margin: 0 auto; */
+  }
+
+.Playfont {
+  font-family: "Playfair Display";
+  /* letter-spacing: 0.0em; */
+}
+
+.Menufont {
+  font-family: Arial;
+  font-size: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 17px;
+  padding-bottom: 17px;
+  letter-spacing: 0.2em;
+  color: rgb(201, 199, 197);
+}
+
+.head-wrapper {
+  padding-left: 6%;
+  padding-right: 6%;
+}
+
+.spacer {
+  margin-top: 125px;
+  margin-bottom: 125px;
+}
+
+
+.item-wrapper {
+  margin-top: 6rem;
+}
+
+
+.side {
+  width: 200px;
+  margin: auto;
+}
